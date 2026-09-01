@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Module Name: fs-retention-cleanup.py
+Module Name: fs-retention-cleanup-by-year.py
 Description: Deletes files from a specific filesystem folder that are older than the configured year.
 Author: Kleber Felix
 Version: 1.0.0
