@@ -3,10 +3,10 @@
 
 """
 Module Name: fs-retention-cleanup-by-ts.py
-Description: Deletes files from a specific filesystem folder that are older than the configured year.
+Description: Delete files from a file system that were modified before a specific date.
 Author: Kleber Felix
 Version: 1.0.0
-Date: 2026-08-27
+Date: 2026-09-o1
 How to use: python3 fs-retention-cleanup-by-ts.py <folder_path>
 """
 
