@@ -7,7 +7,7 @@ Description: Deletes files from a specific filesystem folder that are older than
 Author: Kleber Felix
 Version: 1.0.0
 Date: 2026-08-27
-How to use: python3 fs-retention-cleanup.py <folder_path>
+How to use: python3 fs-retention-cleanup-by-year.py <folder_path>
 """
 
 import os
